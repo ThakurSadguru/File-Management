@@ -1,0 +1,17 @@
+Date - 7/09/23
+
+local variable - it can de accessed only in the same method.
+static variable - it can anywhere in the class
+instance variable - cannot be accessed in the method 
+constructor - has same name as class and it does not have any return type.
+Tyes of constructor - 
+1)default - when object is created default method is called 
+2)parametrized - it includes parameters
+3)no argument - it does not include any argument
+method overloading - same name but different parameters
+method overridding - same name same parameter but in a different classes/subclass.
+inheriatnce - one class can access the features of another class.
+
+
+ 
+
