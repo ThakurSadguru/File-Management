@@ -1,18 +1,35 @@
-# React + Vite
+# 📁 File Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack **File Management System** built with **React (Frontend)** and **Spring Boot (Backend)**, using **MySQL** for data storage. It allows users to upload, organize, manage, and share files through a modern interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+### 📦 File & Folder Management
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Upload files (drag & drop support)
+- Create, rename, and delete files/folders
+- Move files between folders
+- Trash & restore functionality
 
-## Expanding the ESLint configuration
+### ⭐ User Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- User authentication (Login/Register)
+- Mark files as favorites
+- Dashboard with file statistics
 
-# File-Management-System
+### 🖼️ UI & Experience
+
+- Gallery view for images
+- Responsive design
+- Sidebar with folder navigation
+
+### 🔗 Sharing
+
+- Generate shareable links
+- Access shared files
+
+---
+
+## 🏗️ Project Structure
